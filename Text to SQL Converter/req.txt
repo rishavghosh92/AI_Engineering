@@ -1,0 +1,8 @@
+openai
+streamlit
+pandas
+python-dotenv
+psycopg[binary]
+sqlalchemy
+google-genai
+PyMySql
