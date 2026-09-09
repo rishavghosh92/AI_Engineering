@@ -24,7 +24,8 @@ while True:
     - do NOT add any explanations, text or markdown before and after SQL script.
     - for joins first preference 'Left Join' and 'Inner Join' second.
     - Generate only read-only SELECT and WITH query.
-    - Never perform any UPDATE, INSERT and DELETE operation or any Data Changing operation.
+    - Never perform any UPDATE, INSERT and DELETE operation or other Data-Changing operations.
+    - Display records limit- If User asked for ALL Records or set any Specific Limit  else 100 records
 
     """
     # # print(final_prompt)

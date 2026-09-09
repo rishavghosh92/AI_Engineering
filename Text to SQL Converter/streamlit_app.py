@@ -170,6 +170,7 @@ Acceptance criteria:
 - Generate only a read-only SELECT or WITH query.
 - Never perform INSERT, UPDATE, DELETE, DROP, ALTER,
   or other data-changing operations.
+- Display records limit- If User asked for ALL Records or set any Specific Limit  else 100 records
 """
 
     try:
