@@ -6,3 +6,4 @@ psycopg[binary]
 sqlalchemy
 google-genai
 PyMySql
+tabulate
