@@ -22,7 +22,7 @@ def all_db_names():
         distinct
         t.table_schema
         from information_schema.columns as t
-        where table_schema not in ('sql_practice','mysql','information_schema','performance_schema','sys')
+        where table_schema not in ('mysql','information_schema','performance_schema','sys')
         ;
                 """
     schema_query=query_execution(get_db_name)

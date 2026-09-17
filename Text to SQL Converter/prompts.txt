@@ -1,4 +1,4 @@
-show top 50 orders based on cutomer names and most purchase product names
+show top 20 sales details based on cutomer names and most purchase product names
 
 show top 10 orders based on cutomer names and their region
 
@@ -7,3 +7,5 @@ show top 10 most orders products
 Show top 10 sales based on states
 
 show top 5 most order product category
+
+show top 3 product based on ship date by ranking
